@@ -24,7 +24,7 @@ The app allows users to add tasks, mark them as completed, and delete them.
 
 ## 📂 How to Run
 1. Clone or download this repository.
-2. Open the `index.html` file in your web browser.
+2. Open the `TASK1.html` file in your web browser.
 3. Start adding your tasks.
 
 ---
