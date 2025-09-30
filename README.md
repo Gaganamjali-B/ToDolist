@@ -1,6 +1,6 @@
 #  To-Do List 
 
-This project is part of my **Web Development Internship** at ApexPlanet Software Pvt. Ltd.
+This project is part of my **Web Development Internship** 
 
 It is a simple and interactive To-Do List application built using **HTML**, **CSS**, and **JavaScript**.  
 The app allows users to add tasks, mark them as completed, and delete them.
