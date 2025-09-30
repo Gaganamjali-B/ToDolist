@@ -1,4 +1,4 @@
-# Task 1 - To-Do List App
+#  To-Do List 
 
 This project is part of my **Web Development Internship** at ApexPlanet Software Pvt. Ltd.
 
